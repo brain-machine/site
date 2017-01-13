@@ -1,18 +1,18 @@
-
-body {
-  font-family: 'Avenir', 'Helvetica', 'Arial', 'sans-serif';
+.header {
+  background-color: #373341;
 }
 
-.header {
-  width: 100%;
+.header .content {
+  width: 90%;
+  max-width: 1600px;
+  margin: 0 auto;
   padding: 10% 0;
   text-align: center;
   font-size: 1.5em;
   color: #FFFFFF;
-  background-color: #373341;
 }
 
-.header a {
+.header .content a {
   color: #FFFFFF;
   text-decoration: none;
   border-bottom: 1px dotted #999999;
@@ -20,6 +20,6 @@ body {
   transition-duration: all .4s;
 }
 
-.header a:hover {
+.header .content a:hover {
   border-bottom: 1px solid #FFFFFF;
 }

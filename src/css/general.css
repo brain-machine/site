@@ -1,0 +1,15 @@
+html {
+	font-family: 'Avenir', 'Helvetica', 'Arial', 'sans-serif';
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	color: #333333;
+	line-height: 1.8;
+}
+
+@font-face {
+	font-family: 'futura-lt-bold';
+	src: url('/fonts/futura-lt-bold.woff2') format('woff2'),
+			 url('/fonts/futura-lt-bold.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
