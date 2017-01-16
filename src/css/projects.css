@@ -63,4 +63,8 @@
     display: inline-block;
   }
 
+  .project .illustration.right {
+    float: right;
+  }
+
 }
